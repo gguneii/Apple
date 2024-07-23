@@ -336,9 +336,11 @@ hr {
 .card-img img {
   height: 30vh;
   width: 100%;
+  object-fit: contain;
 }
 #save2-img {
   height: 20vh;
+  object-fit: contain;
 }
 .card p {
   color: #6e6e73;
